@@ -24,14 +24,14 @@
 
 <!-- Contact  -->
 <p align="center">
-  <a href="https://linkedin.com/in/yousafesaeed">
-    <img alt="My LinkedIn" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/linkedindb.svg" width="20px" hight="20px"/>
+  <a href="https://linkedin.com/in/yousafesaeed" target="_blank">
+    <img alt="My LinkedIn" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/linkedin.svg" width="20px" hight="20px"/>
   </a>&emsp;
-  <a href="https://twitter.com/yousafesaeed/">
-    <img alt="My Twitter" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/twitterdb.svg"  width="20px" hight="20px"/>
+  <a href="https://twitter.com/yousafesaeed/" target="_blank">
+    <img alt="My Twitter" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/twitter.svg"  width="20px" hight="20px"/>
   </a>&emsp;
-  <a href="mailto:yousafesaeed@gmail.com">
-    <img alt="My Email" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/emaildb.svg" width="20px" hight="20px"/>
+  <a href="mailto:yousafesaeed@gmail.com" target="_blank">
+    <img alt="My Email" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/email.svg" width="20px" hight="20px"/>
   </a>
 </p>
 
