@@ -2,7 +2,6 @@
 <p align="left"><strong><samp>「</samp></strong></p>
 
 <p align="center">
-<br>
 <image src="https://readme-typing-svg.herokuapp.com?font=Lato&duration=3000&size=300&color=CE378B&center=true&vCenter=true&width=200&height=10&lines=-">
 <br>
 
