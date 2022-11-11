@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3500&color=B246A2&center=true&vCenter=true&multiline=true&width=550&height=85&lines=Hi%2C+There!;I'm+Yousef%2C+a+Management+Information+Systems+student%2C;and+Full-Stack+Developer.)](https://yousafesaeed.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3500&color=B246A2&center=true&vCenter=true&multiline=true&width=550&height=85&lines=Hi%2C+There!;I'm+Yousef%2C+a+Management+Information+Systems+student%2C;and+a+Full-Stack+Developer.)](https://yousafesaeed.github.io)
 
 </div>
 
