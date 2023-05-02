@@ -25,20 +25,15 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yousafesaeed&show_icons=true&theme=radical&bg_color=00000000&border_radius=15&border_color=00000000&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafesaeed&langs_count=6&layout=compact&theme=radical&bg_color=00000000&border_radius=15&border_color=00000000"/>
-  </a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=yousafesaeed&theme=radical&hide_border=true&border_radius=15&background=00000000)](#)
+  
 </div>
    
 <br>
-<br>
-  
 
 <div style="display: inline_block">
   <p align="center">
